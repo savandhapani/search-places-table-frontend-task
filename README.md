@@ -1,0 +1,1 @@
+# search-places-table-frontend-task
